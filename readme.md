@@ -1,0 +1,1 @@
+GitHub: A microsoft company which provides a platform for devevlopers to host their code and 
